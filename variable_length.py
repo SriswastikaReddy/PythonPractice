@@ -63,7 +63,7 @@ fun(b=6,c=7,a=2)'''
 
 print(fun(a=5,b=6,c=7))'''
 
-def result(mrk1,mrk2,mrk3):
+'''def result(mrk1,mrk2,mrk3):
     total = mrk1 + mrk2 + mrk3
     average = total / 3
     if average >= 45:
@@ -71,5 +71,7 @@ def result(mrk1,mrk2,mrk3):
     else:
         grade = 'fail'
     return total,average,grade
-print(result(55,70,80))
+print(result(55,70,80))'''
+
+
 
