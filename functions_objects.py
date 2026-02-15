@@ -29,3 +29,5 @@ def totalarea(l,b,h):
     return 2*(area(l,b)+area(b,h)+area(l,h))
 print(totalarea(10,5,3))
 
+
+#
