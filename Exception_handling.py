@@ -98,7 +98,7 @@ except:
 print('end of program')'''
 
 
-l = [1,2,3,4,5]
+'''l = [1,2,3,4,5]
 try:
     index = int(input('enter a number: '))
     print(l[index])
@@ -107,7 +107,7 @@ except (IndexError,TypeError,ValueError) as a:
 except:
     print('something went wrong')
 
-print('program end')
+print('program end')'''
 
 
 
