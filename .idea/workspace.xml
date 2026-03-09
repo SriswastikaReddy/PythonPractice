@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23586c88-c4db-4948-932f-0c9e21133c57" name="Changes" comment="python dialy practice">
+      <change afterPath="$PROJECT_DIR$/ExceptioN_Handling_Challenges/Account_Withdrawl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptioN_Handling_Challenges/Validate_work_Age.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptioN_Handling_Challenges/Week_Password_Error.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SriswastikaReddy&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SriswastikaReddy/PythonPractice.git&quot;,
+    &quot;accountId&quot;: &quot;75f186da-6841-4181-9673-76400e81a823&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="39Sh5exxrpKnhWCKTB8tOcFVHjN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Account_Withdrawl.executor": "Run",
+    "Python.Decorator_Function.executor": "Run",
+    "Python.Exception_handling.executor": "Run",
+    "Python.Iteration_Sequence_Manipulation.executor": "Run",
+    "Python.Lambda_Functions.executor": "Run",
+    "Python.Mathematical_Functions.executor": "Run",
+    "Python.Modules.executor": "Run",
+    "Python.Nested_Try_Except.executor": "Run",
+    "Python.Onject_Attribute_functions.executor": "Run",
+    "Python.Rec_Fun_challenges.executor": "Run",
+    "Python.Recursive_Function.executor": "Run",
+    "Python.Try_Exception.executor": "Run",
+    "Python.User_Defined_Exception.executor": "Run",
+    "Python.Userend_exception.executor": "Run",
+    "Python.Validate_work_Age.executor": "Run",
+    "Python.Week_Password_Error.executor": "Run",
+    "Python.challenges.executor": "Run",
+    "Python.function_as_parameter.executor": "Run",
+    "Python.functions_objects.executor": "Run",
+    "Python.iterators_generators.executor": "Run",
+    "Python.local_global_variable.executor": "Run",
+    "Python.myProgram.executor": "Run",
+    "Python.userdefined_exception.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23586c88-c4db-4948-932f-0c9e21133c57" name="Changes" comment="" />
+      <created>1770695198481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770695198481</updated>
+    </task>
+    <task id="LOCAL-00001" summary="python dialy practice">
+      <option name="closed" value="true" />
+      <created>1770700121389</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770700121389</updated>
+    </task>
+    <task id="LOCAL-00002" summary="python dialy practice">
+      <option name="closed" value="true" />
+      <created>1770779819027</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770779819027</updated>
+    </task>
+    <task id="LOCAL-00003" summary="python dialy practice">
+      <option name="closed" value="true" />
+      <created>1770867195990</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770867195990</updated>
+    </task>
+    <task id="LOCAL-00004" summary="python dialy practice">
+      <option name="closed" value="true" />
+      <created>1771047725854</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1771047725854</updated>
+    </task>
+    <task id="LOCAL-00005" summary="python dialy practice">
+      <option name="closed" value="true" />
+      <created>1771125875467</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1771125875467</updated>
+    </task>
+    <task id="LOCAL-00006" summary="python dialy practice">
+      <option name="closed" value="true" />
+      <created>1771391868041</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1771391868041</updated>
+    </task>
+    <task id="LOCAL-00007" summary="python dialy practice">
+      <option name="closed" value="true" />
+      <created>1771557962282</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1771557962282</updated>
+    </task>
+    <task id="LOCAL-00008" summary="python dialy practice">
+      <option name="closed" value="true" />
+      <created>1771717335274</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1771717335274</updated>
+    </task>
+    <task id="LOCAL-00009" summary="python dialy practice">
+      <option name="closed" value="true" />
+      <created>1771990878815</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1771990878815</updated>
+    </task>
+    <task id="LOCAL-00010" summary="python dialy practice">
+      <option name="closed" value="true" />
+      <created>1771996524871</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1771996524871</updated>
+    </task>
+    <task id="LOCAL-00011" summary="python dialy practice">
+      <option name="closed" value="true" />
+      <created>1772916591568</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1772916591568</updated>
+    </task>
+    <task id="LOCAL-00012" summary="python dialy practice">
+      <option name="closed" value="true" />
+      <created>1773027039306</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1773027039306</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="python dialy practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="python dialy practice" />
+  </component>
+</project>
