@@ -14,3 +14,5 @@ class NegativeException(Exception):
         print(c)
     except:
          print('NegativeDimensionexception')
+
+
